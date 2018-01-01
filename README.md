@@ -1,5 +1,5 @@
 # Bitcoin Private hardfork
-This is the only <a href="https://bitcoinprivate.org">official</a> repository for Bitcoin Private project.<br>
+This is the only <a href="http://bitcoinprivate.org">official</a> repository for Bitcoin Private project.<br>
 <br>
 <b>Bitcoin Private</b> is being developed since 2015 and planned for launch in 2018-2019.<br>
 <br>
@@ -15,5 +15,5 @@ Regards,<br>
 Bitcoin Private team<br>
 January 1, 2018<br>
 <br>
-<a href="https://bitcoinprivate.org">BitcoinPrivate.org</a><br>
-<a href="https://bitcoinprivate.com">BitcoinPrivate.com</a>
+<a href="http://bitcoinprivate.org">BitcoinPrivate.org</a><br>
+<a href="http://bitcoinprivate.com">BitcoinPrivate.com</a>
