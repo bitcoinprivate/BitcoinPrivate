@@ -3,7 +3,7 @@ This is the only <a href="http://bitcoinprivate.org">official</a> repository for
 <br>
 <b>Bitcoin Private</b> is being developed since 2015 and planned for launch in 2018-2019.<br>
 <br>
-It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some certain block with private transactions feature made possible by using zero-knowledge proof (zk-SNARK).<br>
+It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some certain block with private transactions feature added made possible by using zero-knowledge proof (zk-SNARKs). Bitcoin Private will have separate blockchain with SegWit activated and therefore Lightning Network onboard.<br>
 <br>
 Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
