@@ -2,9 +2,9 @@
 <br>
 <b>Bitcoin Private</b> is being developed since 2015 and planned for launch in 2018-2019.<br>
 <br>
-It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some certain block with private transactions feature made possible by using zero-knowledge proof (zk-SNARK).
+It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some certain block with private transactions feature made possible by using zero-knowledge proof (zk-SNARK).<br>
 <br>
-Hardfork is planned to happen on the <b>block 550000</b>.
+Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
 ATTENTION! <b>Bitcoin Private</b> is not connected with any Zclassic activity and will never be.<br>
 <br>
