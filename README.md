@@ -9,7 +9,7 @@ Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
 Fully working example of Lightning network implementation is available at https://htlc.me.<br>
 <br>
-ATTENTION! <b>Bitcoin Private</b> is not connected with any <i>Zclassic</i> activity and will never be.<br>
+<i>ATTENTION</i>! <b>Bitcoin Private</b> is not connected with any <i>Zclassic</i> activity and will never be.<br>
 <br>
 <b>Bitcoin Private</b> will be released no matter of any attempts to hijack the name.<br>
 <br>
