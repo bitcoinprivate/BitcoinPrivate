@@ -6,7 +6,7 @@ It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some
 <br>
 Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
-ATTENTION! <b>Bitcoin Private</b> is not connected with any Zclassic activity and will never be.<br>
+ATTENTION! <b>Bitcoin Private</b> is not connected with any <i>Zclassic</i> activity and will never be.<br>
 <br>
 <b>Bitcoin Private</b> will be released no matter of any attempts to hijack the name.<br>
 <br>
