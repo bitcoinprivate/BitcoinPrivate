@@ -8,7 +8,7 @@ It is a pure hardfork of Bitcoin codebase with all UTXO set of Bitcoin at a some
 Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
 <br>
-<b>ATTENTION! Bitcoin Private</b> is not connected with <i>Zclassic (ZCL/BTCP)</i> scammers trying to hijack the name of  activity and will never be.<br>
+<b>ATTENTION! Bitcoin Private</b> is not connected with <i>Zclassic (ZCL/BTCP)</i> scammers trying to hijack the name of Bitcoin Private from us.<br>
 <br>
 <b>Bitcoin Private</b> will be released no matter of any attempts to hijack the name.<br>
 <br>
