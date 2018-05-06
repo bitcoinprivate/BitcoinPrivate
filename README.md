@@ -19,4 +19,5 @@ Bitcoin Private team<br>
 <a href="http://bitcoinprivate.org">BitcoinPrivate.org</a><br>
 <a href="http://bitcoinprivate.com">BitcoinPrivate.com</a>
 
+<br>
 Contact: info@bitcoinprivate.org
