@@ -14,10 +14,8 @@ Hardfork is planned to happen on the <b>block 550000</b>.<br>
 <br>
 Regards,<br>
 Bitcoin Private team<br>
-
 <br>
 <a href="http://bitcoinprivate.org">BitcoinPrivate.org</a><br>
-<a href="http://bitcoinprivate.com">BitcoinPrivate.com</a>
-
+<a href="http://bitcoinprivate.com">BitcoinPrivate.com</a><br>
 <br>
 Contact: info@bitcoinprivate.org
