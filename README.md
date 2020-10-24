@@ -1,5 +1,7 @@
 # Bitcoin Private
-This is the only <a href="http://bitcoinprivate.org">official</a> repository for Bitcoin Private project.<br>
+This is NOT AT ALL THE <a href="http://bitcoinprivate.org">official</a> repository for Bitcoin Private project.<br>
+
+The OFFICAL REPO can be found here <a href="https://github.com/BTCPrivate/BitcoinPrivate"> official</a> repository for Bitcoin Private project.<br>
 <br>
 <b>Bitcoin Private</b> is being developed since 2015 and planned for launch in 2018-2019.<br>
 <br>
